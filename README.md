@@ -13,8 +13,8 @@ My background in web development and online marketing has fueled a growing passi
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">SOC Automation & ELK Stack EDR</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">SOC Automation & ELK Stack EDR</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/techgneek/SOC-Automation-ELK-Stack-EDR/blob/main/README.md">SOC Automation & ELK Stack EDR</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/techgneek/SOC-Automation-ELK-Stack-EDR/blob/main/README.md">SOC Automation & ELK Stack EDR</a>|
 | Security Automation with SOAR         | SOAR EDR PROJECT|
 | Incident Response Planning and Execution      | SSOC Automation & ELK Stack EDR|
 | Case Management with TheHive                  | SOC Automation & ELK Stack EDR|
