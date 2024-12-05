@@ -8,6 +8,9 @@ I am a recent graduate of Per Scholas Cybersecurity with a diverse skill set and
 
 My background in web development and online marketing has fueled a growing passion for cybersecurity. I am now eager to transition into this field, with a specific goal of joining a Security Operations Center (SOC) as a Tier 1 Analyst.
 
+## Projects
+- <a href="https://github.com/techgneek/SOC-Automation-ELK-Stack-EDR/blob/main/README.md">SOC Automation & ELK Stack EDR</a>
+
 
 ## 🛠️ Core Skills  
 
@@ -16,10 +19,9 @@ My background in web development and online marketing has fueled a growing passi
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/techgneek/SOC-Automation-ELK-Stack-EDR/blob/main/README.md">SOC Automation & ELK Stack EDR</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/techgneek/SOC-Automation-ELK-Stack-EDR/blob/main/README.md">SOC Automation & ELK Stack EDR</a>|
 | Security Automation with SOAR         | SOAR EDR PROJECT|
-| Incident Response Planning and Execution      | SSOC Automation & ELK Stack EDR|
-| Case Management with TheHive                  | SOC Automation & ELK Stack EDR|
-| Scripting and Automation for Threat Mitigation | SOC Automation & ELK Stack EDR|
-|Cloud & Virtualization |    SOC Automation & ELK Stack EDR|
+| Incident Response Planning and Execution      | <a href="https://github.com/techgneek/SOC-Automation-ELK-Stack-EDR/blob/main/README.md">SOC Automation & ELK Stack EDR</a>|
+| Scripting and Automation for Threat Mitigation | <a href="https://github.com/techgneek/SOC-Automation-ELK-Stack-EDR/blob/main/README.md">SOC Automation & ELK Stack EDR</a>|
+|Cloud & Virtualization |    <a href="https://github.com/techgneek/SOC-Automation-ELK-Stack-EDR/blob/main/README.md">SOC Automation & ELK Stack EDR</a>|
 </div>
 
 
@@ -76,7 +78,3 @@ My background in web development and online marketing has fueled a growing passi
 <img src="https://img.shields.io/badge/-Networking%20Essentials-007ACC?&style=for-the-badge&logo=Cisco&logoColor=white" />
 <img src="https://img.shields.io/badge/-Certified%20in%20Cybersecurity-00CCFF?&style=for-the-badge&logo=ISC2&logoColor=white" />
 
-
-## Projects
-- Detection Lab
-- SOC Automation Project
