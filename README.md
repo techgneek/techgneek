@@ -10,7 +10,7 @@ My background in web development and online marketing has fueled a growing passi
 
 ## Projects
 - <a href="https://github.com/techgneek/SOC-Automation-ELK-Stack-EDR/blob/main/README.md">SOC Automation & ELK Stack EDR</a>
-
+- <a href="https://github.com/techgneek/Windows-10-Vulnerability-Management-with-Qualys-Lab">Windows 10 Vulnerability Management with Qualys VM</a>
 
 ## 🛠️ Core Skills  
 
@@ -20,10 +20,9 @@ My background in web development and online marketing has fueled a growing passi
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/techgneek/SOC-Automation-ELK-Stack-EDR/blob/main/README.md">SOC Automation & ELK Stack EDR</a>|
 | Security Automation with SOAR         | SOAR EDR PROJECT|
 | Incident Response Planning and Execution      | <a href="https://github.com/techgneek/SOC-Automation-ELK-Stack-EDR/blob/main/README.md">SOC Automation & ELK Stack EDR</a>|
-| Scripting and Automation for Threat Mitigation | <a href="https://github.com/techgneek/SOC-Automation-ELK-Stack-EDR/blob/main/README.md">SOC Automation & ELK Stack EDR</a>|
+| Vulnerability Management and Threat Mitigation | <a href="https://github.com/techgneek/Windows-10-Vulnerability-Management-with-Qualys-Lab">Windows 10 Vulnerability Management with Qualys VM</a>|
 |Cloud & Virtualization |    <a href="https://github.com/techgneek/SOC-Automation-ELK-Stack-EDR/blob/main/README.md">SOC Automation & ELK Stack EDR</a>|
 </div>
-
 
 ## 🛠️ Tools
 
