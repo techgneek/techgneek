@@ -11,6 +11,7 @@ My background in web development and online marketing has fueled a growing passi
 ## Projects
 - <a href="https://github.com/techgneek/SOC-Automation-ELK-Stack-EDR/blob/main/README.md">SOC Automation & ELK Stack EDR</a>
 - <a href="https://github.com/techgneek/Windows-10-Vulnerability-Management-with-Qualys-Lab">Windows 10 Vulnerability Management with Qualys VM</a>
+- <a href="https://github.com/techgneek/Azure-Cloud-Infrastructure-Lab">Azure Cloud Infrastructure Lab
 
 ## 🛠️ Core Skills  
 
