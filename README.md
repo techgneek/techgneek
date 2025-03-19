@@ -13,6 +13,7 @@ My background in web development and online marketing has fueled a growing passi
 - <a href="https://github.com/techgneek/Windows-10-Vulnerability-Management-with-Qualys-Lab">Windows 10 Vulnerability Management with Qualys VM</a>
 - <a href="https://github.com/techgneek/Azure-Cloud-Infrastructure-Lab">Azure Cloud Infrastructure Lab
 - <a href="https://github.com/techgneek/Active-Directory-Monitoring-with-Splunk-and-Atomic-Red-Team">Splunk Active Directory & Atomic Red Team
+- <a href="https://github.com/techgneek/Active-Directory-and-Powershell-Automation">Active Directory & Powershell Automation Lab
 
 ## 🛠️ Core Skills  
 
