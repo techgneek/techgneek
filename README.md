@@ -1,5 +1,4 @@
-# Hello, I'm James Moore
-<a href="https://www.linkedin.com/in/jamesmoore1983/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# <a href="https://www.linkedin.com/in/jamesmoore1983/">James Moore</a>'s IT, Cloud and Cybersecurity Project Portfolio 🔐
 
 I am a recent graduate of Per Scholas Cybersecurity with a diverse skill set and a commitment to building secure systems, hunting threats, and sharing my knowledge. From managing cloud infrastructures to analyzing malware, my goal is to make the digital world safer one project at a time.  
 
