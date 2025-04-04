@@ -1,11 +1,6 @@
 # <a href="https://www.linkedin.com/in/jamesmoore1983/">James Moore</a>'s IT, Cloud and Cybersecurity Project Portfolio 🔐
 
-I am a recent graduate of Per Scholas Cybersecurity with a diverse skill set and a commitment to building secure systems, hunting threats, and sharing my knowledge. From managing cloud infrastructures to analyzing malware, my goal is to make the digital world safer one project at a time.  
-
-
-## About Me
-
-My background in web development and online marketing has fueled a growing passion for cybersecurity. I am now eager to transition into this field, with a specific goal of joining a Security Operations Center (SOC) as a Tier 1 Analyst.
+I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
 
 ## Projects
 - <a href="https://github.com/techgneek/SOC-Automation-ELK-Stack-EDR/blob/main/README.md">SOC Automation & ELK Stack EDR</a>
