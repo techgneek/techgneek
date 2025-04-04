@@ -6,7 +6,6 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/techgneek/vulnerability-management-program)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
 - **<a href="https://github.com/techgneek/Windows-10-Vulnerability-Management-with-Qualys-Lab">Windows 10 Vulnerability Management with Qualys VM</a>**
 
 ## 🚨 Threat Hunting and Security Operations
