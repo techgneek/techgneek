@@ -10,6 +10,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 🚨 Threat Hunting and Security Operations
 
+- **<a href="https://github.com/techgneek/threat-hunt-device-exposed-to-internet/blob/main/README.md">Threat Hunting - InternetFacing Azure Windows VM**
 - **<a href="https://github.com/techgneek/SOC-Automation-ELK-Stack-EDR/blob/main/README.md">SOC Automation & ELK Stack EDR</a>**
 - **<a href="https://github.com/techgneek/Active-Directory-Monitoring-with-Splunk-and-Atomic-Red-Team">Splunk Active Directory & Atomic Red Team**
 
