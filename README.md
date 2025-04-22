@@ -9,6 +9,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **<a href="https://github.com/techgneek/Windows-10-Vulnerability-Management-with-Qualys-Lab">Windows 10 Vulnerability Management with Qualys VM</a>**
 
 ## 🚨 Threat Hunting and Security Operations
+- **<a href="https://github.com/techgneek/Threat-Hunt-Zero-Day-Ransomware-PwnCrypt-on-Windows-VM">Threat Hunt: Zero-Day Ransomware (PwnCrypt) on Windows VM**
 - **<a href="https://github.com/techgneek/Data-Exfil-Threat-Hunt-On-Windows-VM">Threat Hunt Investigation: Disgruntled Employee Data Exfiltration**
 - **<a href="https://github.com/techgneek/Threat-Hunting-for-Network-Scan-Detection/blob/main/README.md">Network Scanning Detection Lab: Threat Hunt on Windows 10 VM**
 - **<a href="https://github.com/techgneek/threat-hunt-device-exposed-to-internet/blob/main/README.md">Threat Hunting - InternetFacing Azure Windows VM**
