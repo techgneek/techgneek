@@ -8,14 +8,16 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Vulnerability Management Program Implementation (CAPSTONE)](https://github.com/techgneek/vulnerability-management-program)**
 - **<a href="https://github.com/techgneek/Windows-10-Vulnerability-Management-with-Qualys-Lab">Windows 10 Vulnerability Management with Qualys VM</a>**
 
-## 🚨 Threat Hunting and Security Operations
+## 📊 Security Operations Projects
+- **<a href="https://github.com/techgneek/SOC-Automation-ELK-Stack-EDR/blob/main/README.md">SOC Automation & ELK Stack EDR</a>**
+- **<a href="https://github.com/techgneek/Active-Directory-Monitoring-with-Splunk-and-Atomic-Red-Team">Splunk Active Directory & Atomic Red Team**
+
+## 🚨 Threat Hunting Projects
 - **<a href="https://github.com/techgneek/Incident-Report-Powershell-Suspicious-Web-Request/tree/main">Threat Hunt Lab: PowerShell Suspicious Web Request**
 - **<a href="https://github.com/techgneek/Threat-Hunt-Zero-Day-Ransomware-PwnCrypt-on-Windows-VM">Threat Hunt: Zero-Day Ransomware (PwnCrypt) on Windows VM**
 - **<a href="https://github.com/techgneek/Data-Exfil-Threat-Hunt-On-Windows-VM">Threat Hunt Investigation: Disgruntled Employee Data Exfiltration**
 - **<a href="https://github.com/techgneek/Threat-Hunting-for-Network-Scan-Detection/blob/main/README.md">Network Scanning Detection Lab: Threat Hunt on Windows 10 VM**
 - **<a href="https://github.com/techgneek/threat-hunt-device-exposed-to-internet/blob/main/README.md">Threat Hunting - InternetFacing Azure Windows VM**
-- **<a href="https://github.com/techgneek/SOC-Automation-ELK-Stack-EDR/blob/main/README.md">SOC Automation & ELK Stack EDR</a>**
-- **<a href="https://github.com/techgneek/Active-Directory-Monitoring-with-Splunk-and-Atomic-Red-Team">Splunk Active Directory & Atomic Red Team**
 
 ## ☁️ Cloud and IT Security Labs
 
