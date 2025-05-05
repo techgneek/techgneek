@@ -14,6 +14,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 🚨 Threat Hunting Projects
 - **<a href="https://github.com/techgneek/Incident-Report-Powershell-Suspicious-Web-Request/tree/main">Threat Hunt Lab: PowerShell Suspicious Web Request**
+- **<a href="https://github.com/techgneek/Potential-Impossible-Travel/tree/main">Potential Impossible Travel – Sentinel Detection & Investigation**
 - **<a href="https://github.com/techgneek/Threat-Hunt-Zero-Day-Ransomware-PwnCrypt-on-Windows-VM">Threat Hunt: Zero-Day Ransomware (PwnCrypt) on Windows VM**
 - **<a href="https://github.com/techgneek/Data-Exfil-Threat-Hunt-On-Windows-VM">Threat Hunt Investigation: Disgruntled Employee Data Exfiltration**
 - **<a href="https://github.com/techgneek/Threat-Hunting-for-Network-Scan-Detection/blob/main/README.md">Network Scanning Detection Lab: Threat Hunt on Windows 10 VM**
