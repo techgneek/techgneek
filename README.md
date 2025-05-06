@@ -13,6 +13,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **<a href="https://github.com/techgneek/Active-Directory-Monitoring-with-Splunk-and-Atomic-Red-Team">Splunk Active Directory & Atomic Red Team**
 
 ## 🚨 Threat Hunting Projects
+- **<a href="https://github.com/techgneek/Threat-Hunting-Scenario-TOR/blob/main/README.md">Threat Hunt Report: Unauthorized TOR Usage (CAPSTONE)**
 - **<a href="https://github.com/techgneek/Incident-Report-Powershell-Suspicious-Web-Request/tree/main">Threat Hunt Lab: PowerShell Suspicious Web Request**
 - **<a href="https://github.com/techgneek/Potential-Impossible-Travel/tree/main">Potential Impossible Travel – Sentinel Detection & Investigation**
 - **<a href="https://github.com/techgneek/Threat-Hunt-Zero-Day-Ransomware-PwnCrypt-on-Windows-VM">Threat Hunt: Zero-Day Ransomware (PwnCrypt) on Windows VM**
