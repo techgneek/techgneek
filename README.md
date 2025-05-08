@@ -6,6 +6,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## 📈 Data Loss Prevention (DLP) Projects
 
 - **[Microsoft Purview DLP Lab – Financial Data Protection Policy](https://github.com/techgneek/Microsoft-Purview-DLP-Lab-Financial-Data-Protection-Policy/blob/main/README.md)**
+- **[Microsoft Purview (Endpoint DLP) Lab](https://github.com/techgneek/Microsoft-Purview-Endpoint-DLP-Lab-/blob/main/README.md)**
 
 ## ⚠️ Vulnerability Management Projects
 
