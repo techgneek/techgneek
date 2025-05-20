@@ -8,6 +8,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Microsoft Purview DLP Lab – Financial Data Protection Policy](https://github.com/techgneek/Microsoft-Purview-DLP-Lab-Financial-Data-Protection-Policy/blob/main/README.md)**
 - **[Microsoft Purview (Endpoint DLP) Lab](https://github.com/techgneek/Microsoft-Purview-Endpoint-DLP-Lab-/blob/main/README.md)**
 - **[Microsoft Purview Lab – eDiscovery Setup & Search Lab](https://github.com/techgneek/MS-Purview-eDiscover-Lab/blob/main/README.md)**
+- **[Microsoft Purview Compliance Manager Lab – NIST CSF Alignment & Risk Posture Improvement](https://github.com/techgneek/Microsoft-Purview-Compliance-Manager/blob/main/README.md)**
 
 ## ⚠️ Vulnerability Management Projects
 
