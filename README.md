@@ -20,6 +20,9 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **<a href="https://github.com/techgneek/SOC-Automation-ELK-Stack-EDR/blob/main/README.md">SOC Automation & ELK Stack EDR</a>**
 - **<a href="https://github.com/techgneek/Active-Directory-Monitoring-with-Splunk-and-Atomic-Red-Team">Splunk Active Directory & Atomic Red Team**
 
+## 📈 Splunk Labs
+- **<a href="https://github.com/techgneek/Vendor-Access-Sales-Comparison-Dashboard-Column-Chart-">Splunk Charts & Graphs Visualizations Using SPL</a>**
+
 ## 🚨 Threat Hunting Projects
 - **<a href="https://github.com/techgneek/Threat-Hunting-Scenario-TOR/blob/main/README.md">Threat Hunt Report: Unauthorized TOR Usage (CAPSTONE)**
 - **<a href="https://github.com/techgneek/Incident-Report-Powershell-Suspicious-Web-Request/tree/main">Threat Hunt Lab: PowerShell Suspicious Web Request**
