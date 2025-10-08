@@ -22,6 +22,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 📈 Splunk Labs
 - **<a href="https://github.com/techgneek/Vendor-Access-Sales-Comparison-Dashboard-Column-Chart-">Splunk Charts & Graphs Visualizations Using SPL</a>**
+- **<a href="https://github.com/techgneek/Splunk---Scheduling-Reports-and-Alerts/tree/main">Splunk Scheduling Reports & Alerts Using SPL</a>**
 
 ## 🚨 Threat Hunting Projects
 - **<a href="https://github.com/techgneek/Threat-Hunting-Scenario-TOR/blob/main/README.md">Threat Hunt Report: Unauthorized TOR Usage (CAPSTONE)**
