@@ -5,8 +5,8 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 🧠 AI Security & Agentic Systems Lab
 Experiments and projects exploring the intersection of artificial intelligence, cybersecurity automation, and agent-based security workflows.
+- **[AI-Assisted-Azure-IAC-Remediation-Case-Study](https://github.com/techgneek/ai-assisted-azure-iac-remediation-case-study)**
 - **[AI-Assisted Threat Intelligence Investigation](https://github.com/techgneek/AI-Applied-Cybersecurity-Incident-Response)**
-- **Agentic SOC workflows (Coming Soon)**
 
 ## 📈 Data Loss Prevention (DLP) Projects
 
