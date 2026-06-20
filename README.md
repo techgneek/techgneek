@@ -29,8 +29,8 @@ My projects are built as practical case studies, not just tool demos. They focus
 - **[Vulnerability Management Program Implementation (CAPSTONE)](https://github.com/techgneek/vulnerability-management-program)**  
   End-to-end vulnerability management program case study covering program structure, scanning, prioritization, remediation workflow, evidence, and reporting.
 
-- **[SOC Automation & ELK Stack EDR](https://github.com/techgneek/SOC-Automation-ELK-Stack-EDR/blob/main/README.md)**  
-  Detection and response lab using endpoint telemetry, log analysis, and SOC automation concepts.
+- **[Threat Hunt Report: Unauthorized TOR Usage (CAPSTONE)](https://github.com/techgneek/Threat-Hunting-Scenario-TOR/blob/main/README.md)**  
+  Threat hunting case study investigating unauthorized TOR usage, documenting detection logic, investigation steps, findings, and reporting in an enterprise-style format.
 
 - **[Splunk Active Directory & Atomic Red Team](https://github.com/techgneek/Active-Directory-Monitoring-with-Splunk-and-Atomic-Red-Team)**  
   Active Directory monitoring and simulated attack detection with Splunk and Atomic Red Team.
@@ -94,4 +94,3 @@ Experiments and projects exploring the intersection of artificial intelligence, 
 -->
 
 <br>
-
