@@ -1,7 +1,39 @@
-# <a href="https://www.linkedin.com/in/jamesmoore1983/">James Moore</a>'s IT, Cloud and Cybersecurity Project Portfolio 🔐
+# <a href="https://www.linkedin.com/in/jamesmoore1983/">James Moore</a>'s AI Security, Cloud, and Vulnerability Management Portfolio 🔐
 
+**Vulnerability Management Engineer focused on AI-assisted security engineering, cloud remediation, and security automation.**
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
+I currently work in vulnerability management and use this portfolio to document hands-on security engineering projects that reflect where I am growing professionally: AI-assisted security workflows, cloud security, vulnerability remediation, detection engineering, and enterprise-style documentation.
+
+My projects are built as practical case studies, not just tool demos. They focus on the full security workflow: infrastructure buildout, vulnerability discovery, risk triage, remediation, validation, evidence collection, lessons learned, and clear documentation for both technical and non-technical audiences.
+
+## 🎯 Current Focus
+
+- Vulnerability management and remediation engineering
+- AI-assisted security workflows using LLMs and agentic AI
+- Cloud security with Azure
+- Infrastructure as Code with Terraform
+- Security automation with Bash, PowerShell, and Python
+- Vulnerability scanning with Tenable.io, Nessus, Qualys, and Nmap
+- AI-assisted development with GitHub Copilot, Codex, Claude, and other AI agents
+- SIEM and detection workflows with Splunk and related tooling
+- Enterprise-style documentation, change control, remediation validation, and evidence collection
+
+## 🚀 Featured Case Studies
+
+- **[AI-Assisted Azure IaC Vulnerability Remediation Case Study](https://github.com/techgneek/ai-assisted-azure-iac-remediation-case-study)**  
+  Built an Azure security environment with Terraform, deployed scanner and target VMs, generated Critical vulnerability telemetry, remediated findings with scripts, validated with Nmap and Nessus, documented an enterprise-style workflow, and destroyed the environment to control cost.
+
+- **[AI-Assisted Threat Intelligence Investigation](https://github.com/techgneek/AI-Applied-Cybersecurity-Incident-Response)**  
+  AI-assisted investigation workflow focused on threat intelligence, credential exposure, incident response storytelling, and mapping real-world risk into a clear security narrative.
+
+- **[Vulnerability Management Program Implementation (CAPSTONE)](https://github.com/techgneek/vulnerability-management-program)**  
+  End-to-end vulnerability management program case study covering program structure, scanning, prioritization, remediation workflow, evidence, and reporting.
+
+- **[SOC Automation & ELK Stack EDR](https://github.com/techgneek/SOC-Automation-ELK-Stack-EDR/blob/main/README.md)**  
+  Detection and response lab using endpoint telemetry, log analysis, and SOC automation concepts.
+
+- **[Splunk Active Directory & Atomic Red Team](https://github.com/techgneek/Active-Directory-Monitoring-with-Splunk-and-Atomic-Red-Team)**  
+  Active Directory monitoring and simulated attack detection with Splunk and Atomic Red Team.
 
 ## 🧠 AI Security & Agentic Systems Lab
 Experiments and projects exploring the intersection of artificial intelligence, cybersecurity automation, and agent-based security workflows.
@@ -62,6 +94,4 @@ Experiments and projects exploring the intersection of artificial intelligence, 
 -->
 
 <br>
-
-
 
