@@ -37,7 +37,7 @@ My projects are built as practical case studies, not just tool demos. They focus
 
 ## 🧠 Agentic AI Security Projects
 Experiments and projects exploring the intersection of artificial intelligence, cybersecurity automation, and agent-based security workflows.
-- **[Agentic AI - Red Team Scanner](https://github.com/techgneek/Red_Team_Scanner)
+- **[Agentic AI - Red Team Scanner](https://github.com/techgneek/Red_Team_Scanner)**
 - **[AI-Assisted-Azure-IAC-Remediation-Case-Study](https://github.com/techgneek/ai-assisted-azure-iac-remediation-case-study)**
 - **[AI-Assisted Threat Intelligence Investigation](https://github.com/techgneek/AI-Applied-Cybersecurity-Incident-Response)**
 
