@@ -35,8 +35,9 @@ My projects are built as practical case studies, not just tool demos. They focus
 - **[Splunk Active Directory & Atomic Red Team](https://github.com/techgneek/Active-Directory-Monitoring-with-Splunk-and-Atomic-Red-Team)**  
   Active Directory monitoring and simulated attack detection with Splunk and Atomic Red Team.
 
-## 🧠 AI Security & Agentic Systems Lab
+## 🧠 Agentic AI Security Projects
 Experiments and projects exploring the intersection of artificial intelligence, cybersecurity automation, and agent-based security workflows.
+- **[Agentic AI - Red Team Scanner](https://github.com/techgneek/Red_Team_Scanner)
 - **[AI-Assisted-Azure-IAC-Remediation-Case-Study](https://github.com/techgneek/ai-assisted-azure-iac-remediation-case-study)**
 - **[AI-Assisted Threat Intelligence Investigation](https://github.com/techgneek/AI-Applied-Cybersecurity-Incident-Response)**
 
