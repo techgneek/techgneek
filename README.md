@@ -48,18 +48,9 @@ Experiments and projects exploring the intersection of artificial intelligence, 
 - **<a href="https://github.com/techgneek/Windows-10-Vulnerability-Management-with-Qualys-Lab">Windows 10 Vulnerability Management with Qualys VM</a>**
 - **<a href="https://github.com/techgneek/STIG-Remediation-Windows-Application-Log-Size/blob/main/README.md">STIG Remediation: Windows Application Log Size (WN10-AU-000500)**
 
-## 📈 Data Loss Prevention (DLP) Projects
-
-- **[Microsoft Purview DLP Lab – Financial Data Protection Policy](https://github.com/techgneek/Microsoft-Purview-DLP-Lab-Financial-Data-Protection-Policy/blob/main/README.md)**
-- **[Microsoft Purview (Endpoint DLP) Lab](https://github.com/techgneek/Microsoft-Purview-Endpoint-DLP-Lab-/blob/main/README.md)**
-- **[Microsoft Purview Lab – eDiscovery Setup & Search Lab](https://github.com/techgneek/MS-Purview-eDiscover-Lab/blob/main/README.md)**
-- **[Microsoft Purview Compliance Manager Lab – NIST CSF Alignment & Risk Posture Improvement](https://github.com/techgneek/Microsoft-Purview-Compliance-Manager/blob/main/README.md)**
-
 ## 📊 Security Operations Projects
 - **<a href="https://github.com/techgneek/SOC-Automation-ELK-Stack-EDR/blob/main/README.md">SOC Automation & ELK Stack EDR</a>**
 - **<a href="https://github.com/techgneek/Active-Directory-Monitoring-with-Splunk-and-Atomic-Red-Team">Splunk Active Directory & Atomic Red Team**
-
-## 📈 Splunk Labs
 - **<a href="https://github.com/techgneek/Vendor-Access-Sales-Comparison-Dashboard-Column-Chart-">Splunk Charts & Graphs Visualizations Using SPL</a>**
 - **<a href="https://github.com/techgneek/Splunk---Scheduling-Reports-and-Alerts/tree/main">Splunk Scheduling Reports & Alerts Using SPL</a>**
 
@@ -71,6 +62,13 @@ Experiments and projects exploring the intersection of artificial intelligence, 
 - **<a href="https://github.com/techgneek/Data-Exfil-Threat-Hunt-On-Windows-VM">Threat Hunt Investigation: Disgruntled Employee Data Exfiltration**
 - **<a href="https://github.com/techgneek/Threat-Hunting-for-Network-Scan-Detection/blob/main/README.md">Network Scanning Detection Lab: Threat Hunt on Windows 10 VM**
 - **<a href="https://github.com/techgneek/threat-hunt-device-exposed-to-internet/blob/main/README.md">Threat Hunting - InternetFacing Azure Windows VM**
+
+## 📈 Data Loss Prevention (DLP) Projects
+
+- **[Microsoft Purview DLP Lab – Financial Data Protection Policy](https://github.com/techgneek/Microsoft-Purview-DLP-Lab-Financial-Data-Protection-Policy/blob/main/README.md)**
+- **[Microsoft Purview (Endpoint DLP) Lab](https://github.com/techgneek/Microsoft-Purview-Endpoint-DLP-Lab-/blob/main/README.md)**
+- **[Microsoft Purview Lab – eDiscovery Setup & Search Lab](https://github.com/techgneek/MS-Purview-eDiscover-Lab/blob/main/README.md)**
+- **[Microsoft Purview Compliance Manager Lab – NIST CSF Alignment & Risk Posture Improvement](https://github.com/techgneek/Microsoft-Purview-Compliance-Manager/blob/main/README.md)**
 
 ## ☁️ Cloud and IT Security Labs
 
