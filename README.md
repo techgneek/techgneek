@@ -41,24 +41,19 @@ Experiments and projects exploring the intersection of artificial intelligence, 
 - **[AI-Assisted-Azure-IAC-Remediation-Case-Study](https://github.com/techgneek/ai-assisted-azure-iac-remediation-case-study)**
 - **[AI-Assisted Threat Intelligence Investigation](https://github.com/techgneek/AI-Applied-Cybersecurity-Incident-Response)**
 
+## ⚠️ AppSec & Vulnerability Management Case Studies
+
+- **[Azure DevSecOps AppSec Lab](https://github.com/techgneek/azure-devsecops-appsec-lab)**
+- **[Vulnerability Management Program Implementation (CAPSTONE)](https://github.com/techgneek/vulnerability-management-program)**
+- **<a href="https://github.com/techgneek/Windows-10-Vulnerability-Management-with-Qualys-Lab">Windows 10 Vulnerability Management with Qualys VM</a>**
+- **<a href="https://github.com/techgneek/STIG-Remediation-Windows-Application-Log-Size/blob/main/README.md">STIG Remediation: Windows Application Log Size (WN10-AU-000500)**
+
 ## 📈 Data Loss Prevention (DLP) Projects
 
 - **[Microsoft Purview DLP Lab – Financial Data Protection Policy](https://github.com/techgneek/Microsoft-Purview-DLP-Lab-Financial-Data-Protection-Policy/blob/main/README.md)**
 - **[Microsoft Purview (Endpoint DLP) Lab](https://github.com/techgneek/Microsoft-Purview-Endpoint-DLP-Lab-/blob/main/README.md)**
 - **[Microsoft Purview Lab – eDiscovery Setup & Search Lab](https://github.com/techgneek/MS-Purview-eDiscover-Lab/blob/main/README.md)**
 - **[Microsoft Purview Compliance Manager Lab – NIST CSF Alignment & Risk Posture Improvement](https://github.com/techgneek/Microsoft-Purview-Compliance-Manager/blob/main/README.md)**
-
-## AppSec & Vulnerability Management
-
-- **[Azure DevSecOps AppSec Lab](https://github.com/techgneek/azure-devsecops-appsec-lab)**
-
-  Azure AppSec lab with Terraform, Azure App Service, GitHub Actions, finding triage, remediation, and validation evidence.
-
-## ⚠️ Vulnerability Management Projects
-
-- **[Vulnerability Management Program Implementation (CAPSTONE)](https://github.com/techgneek/vulnerability-management-program)**
-- **<a href="https://github.com/techgneek/Windows-10-Vulnerability-Management-with-Qualys-Lab">Windows 10 Vulnerability Management with Qualys VM</a>**
-- **<a href="https://github.com/techgneek/STIG-Remediation-Windows-Application-Log-Size/blob/main/README.md">STIG Remediation: Windows Application Log Size (WN10-AU-000500)**
 
 ## 📊 Security Operations Projects
 - **<a href="https://github.com/techgneek/SOC-Automation-ELK-Stack-EDR/blob/main/README.md">SOC Automation & ELK Stack EDR</a>**
