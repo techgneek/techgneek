@@ -48,6 +48,12 @@ Experiments and projects exploring the intersection of artificial intelligence, 
 - **[Microsoft Purview Lab – eDiscovery Setup & Search Lab](https://github.com/techgneek/MS-Purview-eDiscover-Lab/blob/main/README.md)**
 - **[Microsoft Purview Compliance Manager Lab – NIST CSF Alignment & Risk Posture Improvement](https://github.com/techgneek/Microsoft-Purview-Compliance-Manager/blob/main/README.md)**
 
+## AppSec & Vulnerability Management
+
+- **[Azure DevSecOps AppSec Lab](https://github.com/techgneek/azure-devsecops-appsec-lab)**
+
+  Azure AppSec lab with Terraform, Azure App Service, GitHub Actions, finding triage, remediation, and validation evidence.
+
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation (CAPSTONE)](https://github.com/techgneek/vulnerability-management-program)**
