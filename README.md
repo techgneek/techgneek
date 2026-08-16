@@ -20,8 +20,7 @@ My projects are built as practical case studies, not just tool demos. They focus
 
 ## 🚀 Featured Case Studies
 
-- **[AI-Assisted Azure IaC Vulnerability Remediation Case Study](https://github.com/techgneek/ai-assisted-azure-iac-remediation-case-study)**  
-  Built an Azure security environment with Terraform, deployed scanner and target VMs, generated Critical vulnerability telemetry, remediated findings with scripts, validated with Nmap and Nessus, documented an enterprise-style workflow, and destroyed the environment to control cost.
+- **[AI Agent Orchestration Governance Lab](https://github.com/techgneek/ai-agent-orchestration-governance-lab)**: Built and tested a human-led security team of eight GitHub Copilot custom agents, with role boundaries, approval gates, mock exposure evidence, independent validation, and governed closure.
 
 - **[AI-Assisted Threat Intelligence Investigation](https://github.com/techgneek/AI-Applied-Cybersecurity-Incident-Response)**  
   AI-assisted investigation workflow focused on threat intelligence, credential exposure, incident response storytelling, and mapping real-world risk into a clear security narrative.
@@ -37,7 +36,7 @@ My projects are built as practical case studies, not just tool demos. They focus
 
 ## 🧠 Agentic AI Security Projects
 Experiments and projects exploring the intersection of artificial intelligence, cybersecurity automation, and agent-based security workflows.
-- **[AI Agent Orchestration Governance Lab](https://github.com/techgneek/ai-agent-orchestration-governance-lab)**: Built and tested a human-led security team of eight GitHub Copilot custom agents, with role boundaries, approval gates, mock exposure evidence, independent validation, and governed closure.
+- **[AI Agent Orchestration Governance Lab](https://github.com/techgneek/ai-agent-orchestration-governance-lab)**
 - **[Agentic AI Security Mentor App - AetosAI](https://github.com/techgneek/Aetos-Agentic-AI-Security-Mentor-WebApp/blob/main/README.md)**
 - **[Agentic AI - Red Team Scanner](https://github.com/techgneek/Red_Team_Scanner)**
 - **[AI-Assisted-Azure-IAC-Remediation-Case-Study](https://github.com/techgneek/ai-assisted-azure-iac-remediation-case-study)**
