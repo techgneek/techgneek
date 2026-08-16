@@ -37,6 +37,7 @@ My projects are built as practical case studies, not just tool demos. They focus
 
 ## 🧠 Agentic AI Security Projects
 Experiments and projects exploring the intersection of artificial intelligence, cybersecurity automation, and agent-based security workflows.
+- **[AI Agent Orchestration Governance Lab](https://github.com/techgneek/ai-agent-orchestration-governance-lab)**: Built and tested a human-led security team of eight GitHub Copilot custom agents, with role boundaries, approval gates, mock exposure evidence, independent validation, and governed closure.
 - **[Agentic AI Security Mentor App - AetosAI](https://github.com/techgneek/Aetos-Agentic-AI-Security-Mentor-WebApp/blob/main/README.md)**
 - **[Agentic AI - Red Team Scanner](https://github.com/techgneek/Red_Team_Scanner)**
 - **[AI-Assisted-Azure-IAC-Remediation-Case-Study](https://github.com/techgneek/ai-assisted-azure-iac-remediation-case-study)**
